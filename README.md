@@ -7,3 +7,4 @@
 - 💬 Ask me about __Cloud, DevOps, Infrastructure__
 - 📫 How to reach me: nwaubanig1@gmail.com
 - ⚡ Fun fact: __I love playing the piano and listening to music.__
+- 💬 How to connect with me on linkedIn: __https://www.linkedin.com/in/nwaubani-godson__
