@@ -2,6 +2,9 @@
 
 <h3 align="center">Cloud & DevOps Engineer | AWS | Docker | Terraform | CI/CD | Kubernetes</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nwaubani-Godson&color=blue)
+
+
 ---
 
 ### 🚀 About Me
