@@ -36,6 +36,8 @@ Check out my latest hands-on projects:
 
 ### **Operating System**
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ---
 
