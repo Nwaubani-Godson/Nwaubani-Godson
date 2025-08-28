@@ -54,5 +54,8 @@ Check out my latest hands-on projects:
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nwaubani-godson)
-- 📂 [GitHub Portfolio](https://github.com/Nwaubani-Godson/Cloud-and-DevOps-Portfolio)
-- 📧 nwaubanig1@gmail.com
+- 🔗 [GitHub Portfolio](https://github.com/Nwaubani-Godson/Cloud-and-DevOps-Portfolio)
+- 🔗 [Facebook](https://www.facebook.com/godson.nwaubani.devops)
+- 🔗 [X (Twitter)](https://x.com/GodsonNwaubani_)
+- 🔗 [Instagram](https://www.instagram.com/nwaubanigodson/)
+- 📧 **Email:** nwaubanig1@gmail.com
