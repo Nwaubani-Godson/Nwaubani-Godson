@@ -12,11 +12,12 @@ Check out my latest hands-on projects:
 
 ## 🛠️ Tech Stack & Tools
 
-### **Languages**
+### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Cloud**
+### **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **Containerization & Orchestration**
@@ -34,10 +35,12 @@ Check out my latest hands-on projects:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-### **Operating System**
+### **API Development & Testing**
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ---
 
