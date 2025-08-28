@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🌱 I’m currently working on **Cloud and DevOps Projects**
 - 🔍 I’m consistently learning and growing in **Cloud Infrastructure, DevOps processes, and Automation**
 - 👯 I’m open to collaborate on **Cloud and DevOps Projects**
